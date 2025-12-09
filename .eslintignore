@@ -1,0 +1,7 @@
+build/
+dist/
+.docusaurus/
+*.js
+*.mjs
+*.cjs
+node_modules/
